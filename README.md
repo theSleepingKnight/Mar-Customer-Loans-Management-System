@@ -41,7 +41,7 @@ cd frontend
 npm run dev
 ```
 
-3. Open your browser and go to: https://mar-customer-loans-management-system-lckq-909n5tt8f.vercel.app/login
+3. Open your browser and go to: https://mar-customer-loans-management-system-lckq-909n5tt8f.vercel.app
 
 ## Default Login Credentials
 
